@@ -1,15 +1,9 @@
 
 ' // ***************************************************************************
 ' // 
-' // Copyright (c) Microsoft Corporation.  All rights reserved.
-' // 
-' // Microsoft Deployment Toolkit Solution Accelerator
-' //
-' // File:      ZTIUtility.vbs
-' // 
-' // Version:   6.3.8330.1000
-' // 
-' // Purpose:   Common Libraries for Microsoft Deployment Toolkit
+' // Decode tool for MDT CustomSettings.ini file
+' // Build on default libs of MDT
+' // https://github.com/warringaa/MDT-decoder/
 ' // 
 ' // ***************************************************************************
 
