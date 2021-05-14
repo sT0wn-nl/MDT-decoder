@@ -16,3 +16,5 @@ Decoded domain: example.local
 Decoded username: Administrator
 DomainAdminPassword: plain_text_password
 ```
+## Links
+https://docs.microsoft.com/nl-nl/mem/configmgr/mdt/
